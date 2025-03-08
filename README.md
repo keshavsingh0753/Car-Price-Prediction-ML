@@ -1,6 +1,5 @@
 Car Price Prediction | Python, Scikit-learn
 
-
 •	Built a machine learning model to predict car prices using linear and Lasso regression.
 
 •	Cleaned and processed car data with Pandas and NumPy.
